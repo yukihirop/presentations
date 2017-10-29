@@ -69,8 +69,8 @@ end
 
 ## light　service
 
-`interactor`には考え方まで丁寧に書かれていないが、その前進となった
-`light_service`には書かれていたのでそちらを読むことにしました。
+`interactor` には考え方まで丁寧に書かれていないが、その前進となった
+<span style="font-family: Helvetica Neue; font-weight: bold; color:#ffffff"><span color:##e49436">light</span>service</span>には書かれていたのでそちらを読むことにしました。
 
 +++
 
